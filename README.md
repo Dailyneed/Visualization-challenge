@@ -21,7 +21,7 @@ Mouse ID with duplicate time points
 ![Mouse ID with duplicate time points](https://user-images.githubusercontent.com/115572537/215768342-3a91b2f8-59f0-4aac-a702-c8c8121f8b34.png)
 
 Summary statistics
-![Summary Statistics](https://user-images.githubusercontent.com/115572537/215768672-549de3ca-3a10-4c36-8f6f-19ef07d007cb.png)
+![Summary Statistics (2)](https://user-images.githubusercontent.com/115572537/215772025-66aff4dd-6045-4c76-9367-533a02fd1f29.png)
 
 Statistics by aggregation method
 ![Aggregation method (2)](https://user-images.githubusercontent.com/115572537/215768999-3393eb80-109b-4d81-9526-c3b7e3eac202.png)
